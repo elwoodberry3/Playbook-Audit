@@ -4,5 +4,5 @@
 
 # Playbook & Risk Audits
 ### Legal & Compliance Services  
-Automated contract review pipeline: ingests clause-level text, runs RAG comparison against company playbooks, flags non-standard deviations, and generates plain-language redline suggestions without human review at intake.  
+Scans contract clauses against company playbooks, flags deviations automatically, and auto-suggests redlines in plain language.  
 [See Full Build](https://adbyrdllc.wixstudio.com/iautomateshit/demos) 
